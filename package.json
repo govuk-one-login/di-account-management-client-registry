@@ -2,7 +2,8 @@
   "name": "di-account-management-client-registry",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "lint-staged": {
     "*.ts": [
       "eslint --fix",
@@ -15,7 +16,8 @@
     "lint": "tsc && eslint .",
     "prepare": "husky install",
     "precommit": "pre-commit run",
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "author": "",
   "license": "ISC",
