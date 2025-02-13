@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const defraDangerousDogsIndex = {
     clientId: {
         production: "u6cETcTbDeT5PZaRRvUskHQeZq8",
@@ -25,4 +27,4 @@ const defraDangerousDogsIndex = {
         },
     },
 };
-export default defraDangerousDogsIndex;
+exports.default = defraDangerousDogsIndex;

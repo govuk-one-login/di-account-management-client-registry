@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const oneLoginHome = {
     clientId: {
         production: "KcKmx2g1GH6ersWFvzMi1bhehq4",
@@ -33,4 +35,4 @@ const oneLoginHome = {
         },
     },
 };
-export default oneLoginHome;
+exports.default = oneLoginHome;

@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const welshFisheriesPermit = {
     clientId: {
         production: "tPCCSyoMaFNbLTt0gEW609h15Uc",
@@ -25,4 +27,4 @@ const welshFisheriesPermit = {
         },
     },
 };
-export default welshFisheriesPermit;
+exports.default = welshFisheriesPermit;

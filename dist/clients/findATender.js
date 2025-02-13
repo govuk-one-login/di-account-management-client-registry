@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const findATender = {
     clientId: {
         production: "L8SSq5Iz8DstkBgno0Hx5aujelE",
@@ -25,4 +27,4 @@ const findATender = {
         },
     },
 };
-export default findATender;
+exports.default = findATender;

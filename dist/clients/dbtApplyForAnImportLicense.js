@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const dbtApplyForAnImportLicense = {
     clientId: {
         production: "gSKx5snZtYsQWSQZRoKI2oV-7lQ",
@@ -25,4 +27,4 @@ const dbtApplyForAnImportLicense = {
         },
     },
 };
-export default dbtApplyForAnImportLicense;
+exports.default = dbtApplyForAnImportLicense;

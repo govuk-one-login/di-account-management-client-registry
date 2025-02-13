@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const hmrc = {
     clientId: {
         production: "mQDXGO7gWdK7V28v82nVcEGuacY",
@@ -23,4 +25,4 @@ const hmrc = {
         },
     },
 };
-export default hmrc;
+exports.default = hmrc;

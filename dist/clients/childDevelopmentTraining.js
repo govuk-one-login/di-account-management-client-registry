@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const childDevelopmentTraining = {
     clientId: {
         production: "txsGLvMYYCPaWPZRq2L7XxEnyro",
@@ -25,4 +27,4 @@ const childDevelopmentTraining = {
         },
     },
 };
-export default childDevelopmentTraining;
+exports.default = childDevelopmentTraining;

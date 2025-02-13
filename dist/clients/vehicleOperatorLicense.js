@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const vehicleOperatorLicense = {
     clientId: {
         production: "XwwVDyl5oJKtK0DVsuw3sICWkPU",
@@ -23,4 +25,4 @@ const vehicleOperatorLicense = {
         },
     },
 };
-export default vehicleOperatorLicense;
+exports.default = vehicleOperatorLicense;

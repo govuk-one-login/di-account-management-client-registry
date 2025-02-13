@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const mojPlanYourFuture = {
     clientId: {
         production: "DVUDWXsy0io7wDBH5LA5IEkEH5U",
@@ -25,4 +27,4 @@ const mojPlanYourFuture = {
         },
     },
 };
-export default mojPlanYourFuture;
+exports.default = mojPlanYourFuture;

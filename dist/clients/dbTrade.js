@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const dbTrade = {
     clientId: {
         production: "dPIP320ek5A50_12a00U2sEoM0k",
@@ -19,4 +21,4 @@ const dbTrade = {
         },
     },
 };
-export default dbTrade;
+exports.default = dbTrade;

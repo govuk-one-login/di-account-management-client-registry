@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const useLastingPowerOfAttorney = {
     clientId: {
         production: "DduaLZl49t9hHADHyzJBmEwvbsw",
@@ -25,4 +27,4 @@ const useLastingPowerOfAttorney = {
         },
     },
 };
-export default useLastingPowerOfAttorney;
+exports.default = useLastingPowerOfAttorney;

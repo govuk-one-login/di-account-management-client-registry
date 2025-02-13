@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const aas = {
     clientId: {
         production: "dVrdJ7aemrvR0YlX7lDRaXnz0mE",
@@ -25,4 +27,4 @@ const aas = {
         },
     },
 };
-export default aas;
+exports.default = aas;

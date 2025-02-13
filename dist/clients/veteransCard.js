@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const veteransCard = {
     clientId: {
         production: "zFeCxrwpLCUHFm-C4_CztwWtLfQ",
@@ -23,4 +25,4 @@ const veteransCard = {
         },
     },
 };
-export default veteransCard;
+exports.default = veteransCard;

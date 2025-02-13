@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const companyHouseAccounts = {
     clientId: {
         production: "Hp9xO0Wda9EcI_2IO8OGeYJyrT0",
@@ -25,4 +27,4 @@ const companyHouseAccounts = {
         },
     },
 };
-export default companyHouseAccounts;
+exports.default = companyHouseAccounts;

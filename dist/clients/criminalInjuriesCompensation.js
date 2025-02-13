@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const criminalInjuriesCompensation = {
     clientId: {
         production: "bGAwNKM0XvnxCAuDQ_rMhhP3dxM",
@@ -25,4 +27,4 @@ const criminalInjuriesCompensation = {
         },
     },
 };
-export default criminalInjuriesCompensation;
+exports.default = criminalInjuriesCompensation;

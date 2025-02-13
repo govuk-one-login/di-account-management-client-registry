@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const findAndApplyForAGrant = {
     clientId: {
         production: "tya4DoMpw_B7FK5YvuMAj3asc0A",
@@ -25,4 +27,4 @@ const findAndApplyForAGrant = {
         },
     },
 };
-export default findAndApplyForAGrant;
+exports.default = findAndApplyForAGrant;

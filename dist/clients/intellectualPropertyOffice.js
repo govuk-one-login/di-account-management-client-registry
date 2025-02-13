@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const intellectualPropertyOffice = {
     clientId: {
         production: "Mh3SUEDHB74A2SIB_1VAXZKG_iw",
@@ -25,4 +27,4 @@ const intellectualPropertyOffice = {
         },
     },
 };
-export default intellectualPropertyOffice;
+exports.default = intellectualPropertyOffice;

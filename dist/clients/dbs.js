@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const dbs = {
     clientId: {
         production: "RqFZ83csmS4Mi4Y7s7ohD9-ekwU",
@@ -23,4 +25,4 @@ const dbs = {
         },
     },
 };
-export default dbs;
+exports.default = dbs;

@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const hmpoCancelPassport = {
     clientId: {
         production: "l6GFmD8ndn7afVcm6SqAHlM8IVM",
@@ -25,4 +27,4 @@ const hmpoCancelPassport = {
         },
     },
 };
-export default hmpoCancelPassport;
+exports.default = hmpoCancelPassport;

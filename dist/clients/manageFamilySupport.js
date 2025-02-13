@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const manageFamilySupport = {
     clientId: {
         production: "zbNToJPcre4BXEap0na8kOjniKg",
@@ -25,4 +27,4 @@ const manageFamilySupport = {
         },
     },
 };
-export default manageFamilySupport;
+exports.default = manageFamilySupport;

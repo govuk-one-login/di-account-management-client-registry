@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const faa = {
     clientId: {
         production: "CCdLjqwGtpAA1Td2CrNHT1yFbqa",
@@ -25,4 +27,4 @@ const faa = {
         },
     },
 };
-export default faa;
+exports.default = faa;

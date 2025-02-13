@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const ate = {
     clientId: {
         production: "S1hl5G31dSsMYqPaOuiRVOLhBX0",
@@ -25,4 +27,4 @@ const ate = {
         },
     },
 };
-export default ate;
+exports.default = ate;

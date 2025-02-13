@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const mortgageDeed = {
     clientId: {
         production: "VsAkrtMBzAosSveAv4xsuUDyiSs",
@@ -23,4 +25,4 @@ const mortgageDeed = {
         },
     },
 };
-export default mortgageDeed;
+exports.default = mortgageDeed;

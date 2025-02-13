@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const CMAD = {
     clientId: {
         production: "Q2tqV5C1nGXFVMUcnpqbOUTrZuw",
@@ -25,4 +27,4 @@ const CMAD = {
         },
     },
 };
-export default CMAD;
+exports.default = CMAD;

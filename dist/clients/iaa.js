@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const iaa = {
     clientId: {
         production: "Gk-D7WMvytB44Nze7oEC5KcThQZ4yl7sAA",
@@ -25,4 +27,4 @@ const iaa = {
         },
     },
 };
-export default iaa;
+exports.default = iaa;

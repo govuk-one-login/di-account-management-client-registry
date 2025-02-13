@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const airPollutionAssesment = {
     clientId: {
         production: "glcH6E9VxtnCAPPwBt550zDh22Q",
@@ -33,4 +35,4 @@ const airPollutionAssesment = {
         },
     },
 };
-export default airPollutionAssesment;
+exports.default = airPollutionAssesment;

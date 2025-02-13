@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const ofqual = {
     clientId: {
         production: "TGygWFxGDNn8ItyaecWCopqIX3s",
@@ -25,4 +27,4 @@ const ofqual = {
         },
     },
 };
-export default ofqual;
+exports.default = ofqual;

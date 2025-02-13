@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const ofgemLafReg = {
     clientId: {
         production: "eywumu-XiJCz7RHyw4Zv8iTgsuc",
@@ -25,4 +27,4 @@ const ofgemLafReg = {
         },
     },
 };
-export default ofgemLafReg;
+exports.default = ofgemLafReg;

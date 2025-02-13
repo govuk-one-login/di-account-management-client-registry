@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const prisonVisits = {
     clientId: {
         production: "XbPzF-ccO0utCxlifxSyA4Ng0API2XTCQQ",
@@ -25,4 +27,4 @@ const prisonVisits = {
         },
     },
 };
-export default prisonVisits;
+exports.default = prisonVisits;

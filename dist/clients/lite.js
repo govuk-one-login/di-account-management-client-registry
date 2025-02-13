@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const lite = {
     clientId: {
         production: "ZL0kvRBP5xMy5OwONj8ARLPyuko",
@@ -25,4 +27,4 @@ const lite = {
         },
     },
 };
-export default lite;
+exports.default = lite;

@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const ukmcab = {
     clientId: {
         production: "9fduJ6KAE8WwCb1VCKp788BC8mM",
@@ -25,4 +27,4 @@ const ukmcab = {
         },
     },
 };
-export default ukmcab;
+exports.default = ukmcab;

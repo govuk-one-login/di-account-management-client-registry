@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const dfeClaimAdditionalPayments = {
     clientId: {
         production: "IJ_TuVEgIqAWT2mCe9b5uocMyNs",
@@ -23,4 +25,4 @@ const dfeClaimAdditionalPayments = {
         },
     },
 };
-export default dfeClaimAdditionalPayments;
+exports.default = dfeClaimAdditionalPayments;

@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const PDPConnect = {
     clientId: {
         production: "sdlgbEirK30fvgbrf0C78XY60qN",
@@ -19,4 +21,4 @@ const PDPConnect = {
         },
     },
 };
-export default PDPConnect;
+exports.default = PDPConnect;

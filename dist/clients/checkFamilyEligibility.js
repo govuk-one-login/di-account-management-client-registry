@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const checkFamilyEligibility = {
     clientId: {
         production: "CKHfr_Kz84LYFnsP7m6YJBXqBzw",
@@ -23,4 +25,4 @@ const checkFamilyEligibility = {
         },
     },
 };
-export default checkFamilyEligibility;
+exports.default = checkFamilyEligibility;

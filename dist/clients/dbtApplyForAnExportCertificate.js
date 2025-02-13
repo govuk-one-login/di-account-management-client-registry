@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const dbtApplyForAnExportCertificate = {
     clientId: {
         production: "Xj93G5rMO2CsouiG8DJf36siQRk",
@@ -25,4 +27,4 @@ const dbtApplyForAnExportCertificate = {
         },
     },
 };
-export default dbtApplyForAnExportCertificate;
+exports.default = dbtApplyForAnExportCertificate;

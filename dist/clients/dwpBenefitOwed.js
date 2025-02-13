@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const dwpBenefitOwed = {
     clientId: {
         production: "kvGpTatgWm3YqXHbG41eOdDf91k",
@@ -33,4 +35,4 @@ const dwpBenefitOwed = {
         },
     },
 };
-export default dwpBenefitOwed;
+exports.default = dwpBenefitOwed;

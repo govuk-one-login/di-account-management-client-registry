@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const socialWorkEngland = {
     clientId: {
         production: "LUIZbIuJ_xVZxwhkNAApcO4O_6o",
@@ -23,4 +25,4 @@ const socialWorkEngland = {
         },
     },
 };
-export default socialWorkEngland;
+exports.default = socialWorkEngland;

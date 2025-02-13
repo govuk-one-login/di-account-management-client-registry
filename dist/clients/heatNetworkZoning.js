@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const heatNetworkZoning = {
     clientId: {
         production: "_cv8flGYkTpGUgCQN7Oab8wV15w",
@@ -19,4 +21,4 @@ const heatNetworkZoning = {
         },
     },
 };
-export default heatNetworkZoning;
+exports.default = heatNetworkZoning;

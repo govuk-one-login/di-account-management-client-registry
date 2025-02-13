@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const govuk = {
     clientId: {
         production: "LcueBVCnGZw-YFdTZ4S07XbQx7I",
@@ -33,4 +35,4 @@ const govuk = {
         },
     },
 };
-export default govuk;
+exports.default = govuk;

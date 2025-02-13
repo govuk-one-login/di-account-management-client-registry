@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const apprenticeshipsService = {
     clientId: {
         production: "x3F_Iu0LgqJpegY5ni0QSB0uezw",
@@ -25,4 +27,4 @@ const apprenticeshipsService = {
         },
     },
 };
-export default apprenticeshipsService;
+exports.default = apprenticeshipsService;

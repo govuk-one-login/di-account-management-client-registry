@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const dfeFindAndUseAnApi = {
     clientId: {
         production: "9uEx86ZHEp8ycgdHNqC8VK87E1A",
@@ -25,4 +27,4 @@ const dfeFindAndUseAnApi = {
         },
     },
 };
-export default dfeFindAndUseAnApi;
+exports.default = dfeFindAndUseAnApi;

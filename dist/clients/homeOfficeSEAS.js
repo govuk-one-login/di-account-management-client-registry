@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const homeOfficeSEAS = {
     clientId: {
         production: "PVTFrS4kgHYHFDqEb5IFanlIfcM",
@@ -25,4 +27,4 @@ const homeOfficeSEAS = {
         },
     },
 };
-export default homeOfficeSEAS;
+exports.default = homeOfficeSEAS;

@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const modernSlavery = {
     clientId: {
         production: "pDqO7_Hu-pq5wam5I4MlURXrv5k",
@@ -25,4 +27,4 @@ const modernSlavery = {
         },
     },
 };
-export default modernSlavery;
+exports.default = modernSlavery;

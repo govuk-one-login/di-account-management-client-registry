@@ -1,3 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.getValueForEnvironment = exports.getEnvironmentType = void 0;
 const isEnvironmentObject = (value) => {
     return typeof value === "object" &&
         value !== null &&
@@ -12,6 +15,7 @@ const getEnvironmentType = (environment) => {
     }
     return 'nonProduction';
 };
+exports.getEnvironmentType = getEnvironmentType;
 const getValueForEnvironment = (environment, value) => {
     if (!isEnvironmentObject(value)) {
         return value;
@@ -25,4 +29,4 @@ const getValueForEnvironment = (environment, value) => {
     }
     return value.nonProduction;
 };
-export { getEnvironmentType, getValueForEnvironment };
+exports.getValueForEnvironment = getValueForEnvironment;

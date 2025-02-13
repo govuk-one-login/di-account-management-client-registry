@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const connectFamilies = {
     clientId: {
         production: "cqGoT1LYLsjn-iwGcDTzamckhZU",
@@ -25,4 +27,4 @@ const connectFamilies = {
         },
     },
 };
-export default connectFamilies;
+exports.default = connectFamilies;

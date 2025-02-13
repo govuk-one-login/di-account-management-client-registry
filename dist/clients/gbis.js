@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const gbis = {
     clientId: {
         production: "FakIq5aYsHQ02dBOc6XwyA1wRRs",
@@ -25,4 +27,4 @@ const gbis = {
         },
     },
 };
-export default gbis;
+exports.default = gbis;

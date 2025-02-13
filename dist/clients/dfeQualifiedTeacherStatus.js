@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const dfeQualifiedTeacherStatus = {
     clientId: {
         production: "GQzNgSkj3QpmHlPO1kIfbMW1PAw",
@@ -25,4 +27,4 @@ const dfeQualifiedTeacherStatus = {
         },
     },
 };
-export default dfeQualifiedTeacherStatus;
+exports.default = dfeQualifiedTeacherStatus;

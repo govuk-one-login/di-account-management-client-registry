@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const drivingMedicalCondition = {
     clientId: {
         production: "iJNgycwBNEWGQvkuiLxOdVmVzG9",
@@ -23,4 +25,4 @@ const drivingMedicalCondition = {
         },
     },
 };
-export default drivingMedicalCondition;
+exports.default = drivingMedicalCondition;

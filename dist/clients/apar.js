@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const apar = {
     clientId: {
         production: "2nAxHa72OqhE6eKymHZIx-sV3vI",
@@ -25,4 +27,4 @@ const apar = {
         },
     },
 };
-export default apar;
+exports.default = apar;
