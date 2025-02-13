@@ -2,7 +2,7 @@
   "name": "di-account-management-client-registry",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "dist/index.js",
   "lint-staged": {
     "*.ts": [
       "eslint --fix",
