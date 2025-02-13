@@ -15,7 +15,8 @@
     "lint": "tsc && eslint .",
     "prepare": "husky install",
     "precommit": "pre-commit run",
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "author": "",
   "license": "ISC",
