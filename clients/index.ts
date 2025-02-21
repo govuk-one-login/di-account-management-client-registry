@@ -48,6 +48,7 @@ import dfeApplyForTeacherTraining from "./dfeApplyForTeacherTraining";
 import dbTrade from "./dbTrade";
 import intellectualPropertyOffice from "./intellectualPropertyOffice";
 import heatNetworkZoning from "./heatNetworkZoning";
+import ruralPaymentWales from "./ruralPaymentWales";
 
 export {
   govuk,
@@ -100,4 +101,5 @@ export {
   dbTrade,
   intellectualPropertyOffice,
   heatNetworkZoning,
+  ruralPaymentWales
 };
